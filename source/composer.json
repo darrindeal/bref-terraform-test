@@ -1,0 +1,12 @@
+{
+    "name": "darrindeal/helloworld",
+    "authors": [
+        {
+            "name": "Darrin Deal",
+            "email": "ddeal@wellspringapps.io"
+        }
+    ],
+    "require": {
+        "bref/bref": "^1.7"
+    }
+}
